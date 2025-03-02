@@ -1,0 +1,46 @@
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: Outfit, sans-serif;
+    font-weight: 400;
+}
+
+div.page {
+    padding: 10%;
+}
+
+div.card {
+    background-color: white;
+    border-radius: 20px;
+    margin: auto;
+    text-align: center;
+    max-width: 280px;
+    padding: 15px;
+    
+}
+
+img.qr {
+    border-radius: 15px;
+    width: 100%;
+}
+
+h4 {
+    font-size: calc(15px + 0.4vw);
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+}
+
+p {
+    color: hsl(216, 15%, 48%);
+    font-size: calc(13px + 0.2vw);
+}
+
+div.attribution {
+    margin: 20px;
+}
